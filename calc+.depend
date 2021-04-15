@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1618320449 source:c:\users\user\desktop\frogs\calc+\main.cpp
+	<iostream>
+	<locale.h>
+	<cstring>
+	<cstdlib>
+
